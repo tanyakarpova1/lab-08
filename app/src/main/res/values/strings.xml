@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab-08</string>
+    <string name="new">New</string>
+    <string name="new1">NEW</string>
+    <string name="save">SAVE</string>
+    <string name="delete">DELETE</string>
+</resources>
